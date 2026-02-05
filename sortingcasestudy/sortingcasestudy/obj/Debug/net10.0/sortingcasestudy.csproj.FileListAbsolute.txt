@@ -1,0 +1,14 @@
+C:\Users\AsuS VivoBook\source\repos\sortingcasestudy\sortingcasestudy\bin\Debug\net10.0\sortingcasestudy.exe
+C:\Users\AsuS VivoBook\source\repos\sortingcasestudy\sortingcasestudy\bin\Debug\net10.0\sortingcasestudy.deps.json
+C:\Users\AsuS VivoBook\source\repos\sortingcasestudy\sortingcasestudy\bin\Debug\net10.0\sortingcasestudy.runtimeconfig.json
+C:\Users\AsuS VivoBook\source\repos\sortingcasestudy\sortingcasestudy\bin\Debug\net10.0\sortingcasestudy.dll
+C:\Users\AsuS VivoBook\source\repos\sortingcasestudy\sortingcasestudy\bin\Debug\net10.0\sortingcasestudy.pdb
+C:\Users\AsuS VivoBook\source\repos\sortingcasestudy\sortingcasestudy\obj\Debug\net10.0\sortingcasestudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsuS VivoBook\source\repos\sortingcasestudy\sortingcasestudy\obj\Debug\net10.0\sortingcasestudy.AssemblyInfoInputs.cache
+C:\Users\AsuS VivoBook\source\repos\sortingcasestudy\sortingcasestudy\obj\Debug\net10.0\sortingcasestudy.AssemblyInfo.cs
+C:\Users\AsuS VivoBook\source\repos\sortingcasestudy\sortingcasestudy\obj\Debug\net10.0\sortingcasestudy.csproj.CoreCompileInputs.cache
+C:\Users\AsuS VivoBook\source\repos\sortingcasestudy\sortingcasestudy\obj\Debug\net10.0\sortingcasestudy.dll
+C:\Users\AsuS VivoBook\source\repos\sortingcasestudy\sortingcasestudy\obj\Debug\net10.0\refint\sortingcasestudy.dll
+C:\Users\AsuS VivoBook\source\repos\sortingcasestudy\sortingcasestudy\obj\Debug\net10.0\sortingcasestudy.pdb
+C:\Users\AsuS VivoBook\source\repos\sortingcasestudy\sortingcasestudy\obj\Debug\net10.0\sortingcasestudy.genruntimeconfig.cache
+C:\Users\AsuS VivoBook\source\repos\sortingcasestudy\sortingcasestudy\obj\Debug\net10.0\ref\sortingcasestudy.dll
