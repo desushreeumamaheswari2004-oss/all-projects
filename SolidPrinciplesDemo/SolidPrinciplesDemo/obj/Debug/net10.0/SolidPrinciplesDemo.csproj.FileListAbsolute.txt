@@ -1,0 +1,14 @@
+C:\Users\AsuS VivoBook\source\repos\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\net10.0\SolidPrinciplesDemo.exe
+C:\Users\AsuS VivoBook\source\repos\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\net10.0\SolidPrinciplesDemo.deps.json
+C:\Users\AsuS VivoBook\source\repos\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\net10.0\SolidPrinciplesDemo.runtimeconfig.json
+C:\Users\AsuS VivoBook\source\repos\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\net10.0\SolidPrinciplesDemo.dll
+C:\Users\AsuS VivoBook\source\repos\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\net10.0\SolidPrinciplesDemo.pdb
+C:\Users\AsuS VivoBook\source\repos\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net10.0\SolidPrinciplesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsuS VivoBook\source\repos\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net10.0\SolidPrinciplesDemo.AssemblyInfoInputs.cache
+C:\Users\AsuS VivoBook\source\repos\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net10.0\SolidPrinciplesDemo.AssemblyInfo.cs
+C:\Users\AsuS VivoBook\source\repos\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net10.0\SolidPrinciplesDemo.csproj.CoreCompileInputs.cache
+C:\Users\AsuS VivoBook\source\repos\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net10.0\SolidPrinciplesDemo.dll
+C:\Users\AsuS VivoBook\source\repos\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net10.0\refint\SolidPrinciplesDemo.dll
+C:\Users\AsuS VivoBook\source\repos\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net10.0\SolidPrinciplesDemo.pdb
+C:\Users\AsuS VivoBook\source\repos\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net10.0\SolidPrinciplesDemo.genruntimeconfig.cache
+C:\Users\AsuS VivoBook\source\repos\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net10.0\ref\SolidPrinciplesDemo.dll
