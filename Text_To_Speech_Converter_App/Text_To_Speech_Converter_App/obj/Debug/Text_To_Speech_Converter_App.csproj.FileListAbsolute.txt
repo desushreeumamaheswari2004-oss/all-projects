@@ -1,0 +1,7 @@
+C:\Users\AsuS VivoBook\source\repos\Text_To_Speech_Converter_App\Text_To_Speech_Converter_App\bin\Debug\Text_To_Speech_Converter_App.exe.config
+C:\Users\AsuS VivoBook\source\repos\Text_To_Speech_Converter_App\Text_To_Speech_Converter_App\bin\Debug\Text_To_Speech_Converter_App.exe
+C:\Users\AsuS VivoBook\source\repos\Text_To_Speech_Converter_App\Text_To_Speech_Converter_App\bin\Debug\Text_To_Speech_Converter_App.pdb
+C:\Users\AsuS VivoBook\source\repos\Text_To_Speech_Converter_App\Text_To_Speech_Converter_App\obj\Debug\Text_To_Speech_Converter_App.csproj.AssemblyReference.cache
+C:\Users\AsuS VivoBook\source\repos\Text_To_Speech_Converter_App\Text_To_Speech_Converter_App\obj\Debug\Text_To_Speech_Converter_App.csproj.CoreCompileInputs.cache
+C:\Users\AsuS VivoBook\source\repos\Text_To_Speech_Converter_App\Text_To_Speech_Converter_App\obj\Debug\Text_To_Speech_Converter_App.exe
+C:\Users\AsuS VivoBook\source\repos\Text_To_Speech_Converter_App\Text_To_Speech_Converter_App\obj\Debug\Text_To_Speech_Converter_App.pdb
